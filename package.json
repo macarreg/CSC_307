@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "test": "vite"
+    "start": "npm run -w react-frontend dev"
   },
   "author": "",
   "license": "ISC",
